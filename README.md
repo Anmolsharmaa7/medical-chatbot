@@ -22,7 +22,6 @@ MediBot is a web-based medical assistant that combines conversational AI with me
 * JavaScript
 * Tailwind CSS
 * Axios
-* React PDF (`react-pdf`)
 * HTML5 / CSS3
 
 ### Tools
